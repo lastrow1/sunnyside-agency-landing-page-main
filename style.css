@@ -455,9 +455,12 @@ footer {
 
     .text__content {
         margin: 0;
-        padding: 10em 2em;
+      padding: 12em 5em 5em 5em;
 
     }
+
+   
+	
 
     .article_featured article {
         height: 95vh;
